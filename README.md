@@ -1,1 +1,3 @@
-# React-Native-practice This is practice for React Native
+# This is practice for React Native
+
+Guess number name from 1-5
